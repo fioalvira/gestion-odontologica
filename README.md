@@ -17,4 +17,4 @@ Web app para consultorio: alta de pacientes con datos personales, agenda de cita
 bash
 npm install
 npm run dev
-# abrir http://localhost:3000
+abrir http://localhost:__
